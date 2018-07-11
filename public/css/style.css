@@ -1,0 +1,36 @@
+body {
+    background: gray;
+}
+
+.top {
+    color: white;
+}
+
+
+.jumbotron {
+   background-image: url(/images/sciandtech.jpeg);
+   background-size: cover; 
+   color: white;
+}
+
+.btnNote {
+    margin-right: 10px;
+    /* padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 3px;
+    padding-bottom: 3px; */
+}
+
+.btnDelete {
+    margin-right: 10px;
+}
+
+.col-sm-4 {
+    margin-bottom: 50px;
+}
+
+textarea {
+    height: 200px;
+    width: 100%;
+    overflow: auto;
+}
